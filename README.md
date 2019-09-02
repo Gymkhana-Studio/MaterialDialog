@@ -1,5 +1,9 @@
 # MaterialDialog
 
+[![](https://jitpack.io/v/Gymkhana-Studio/MaterialDialog.svg)](https://jitpack.io/#Gymkhana-Studio/MaterialDialog)
+
+
+
 Example Usage
 ```
 new MaterialDialog.Builder(MainActivity.this)
